@@ -1,0 +1,23 @@
+h1 {
+    color : black;
+    text-align : center;
+}
+h2 {
+   color: black;
+   text-align: center;
+   font-style: italic;
+}
+p {
+   font-family: sans-serif;
+   text-align: left;
+}
+ul {
+    line-height: 40px;
+    text-align: left;
+}
+body {
+     background-color: skyblue;
+}
+strong {
+        font-style: italic;
+}        
